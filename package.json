@@ -1,0 +1,24 @@
+{
+  "name": "twitter-unofficial-api",
+  "version": "1.0.0",
+  "description": "Twitter Unofficial API Client",
+  "main": "dist/Twitter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Twitter",
+    "Twitter API",
+    "Twitter Unofficial API",
+    "Twitter for Cookie",
+    "Twitter Cookie Class",
+    "Login Twitter",
+    "Twitter Graphql"
+  ],
+  "author": "c4udev",
+  "license": "c4udev",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "https-proxy-agent": "^7.0.4"
+  }
+}
