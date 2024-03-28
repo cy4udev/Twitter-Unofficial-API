@@ -131,7 +131,7 @@ async function login() {
 
 #### Sponsor & Donate
 
-[Patreon](https://patreon.com/cy4udev "cy4udev patreon")
+[Patreon](https://patreon.com/cy4udev "cy4udev patreon") |
 
 #### Copyright & Other Issues
 
