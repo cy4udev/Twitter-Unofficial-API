@@ -133,9 +133,13 @@ async function login() {
 
 [Patreon](https://patreon.com/cy4udev "cy4udev patreon")
 
-#### Copyright & Other Issues
+#### Telif Hakkı ve Diğer Konular
 
-[hello@cy4u.dev](mailto:hello@cy4u.dev "hello@cy4u.dev")
+Telif Hakkı: [copyright@cy4u.dev](mailto:copyright@cy4u.dev "copyright@cy4u.dev") | Diğer Konular: [hello@cy4u.dev](mailto:hello@cy4u.dev "hello@cy4u.dev")
+
+#### Sosyal Medya
+
+[Linkedin](https://www.linkedin.com/company/cy4udev/ "cy4udev linkedin"), [Twitter](https://twitter.com/cy4udev "cy4udev twitter"), [Bluesky](https://bsky.app/profile/cy4u.dev "cy4udev bluesky"), [Instagram](https://instagram.com/cy4udev "cy4udev instagram"), [Github](https://github.com/cy4udev "cy4udev github"), [Npmjs](https://www.npmjs.com/~cy4udev "cy4udev npmjs")
 
 #### Lisans
 
