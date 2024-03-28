@@ -143,4 +143,4 @@ Telif Hakkı: [copyright@cy4u.dev](mailto:copyright@cy4u.dev "copyright@cy4u.dev
 
 #### Lisans
 
-[**Can Yesilyurt**](https://canyesilyurt.com "Can Yesilyurt") & [**cy4udev**](https://cy4u.dev "cy4udev")
+[**Can Yesilyurt**](https://canyesilyurt.com "Can Yesilyurt") | [**cy4udev**](https://cy4u.dev "cy4udev")
