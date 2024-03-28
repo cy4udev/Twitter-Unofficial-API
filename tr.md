@@ -131,7 +131,7 @@ async function login() {
 
 #### Sponsorluk & Bağış
 
-[Patreon](https://patreon.com/cy4udev "cy4udev patreon") |
+[Patreon](https://patreon.com/cy4udev "cy4udev patreon") | [BuyMeaCoffee](https://www.buymeacoffee.com/cy4udev "cy4udev BuyMeaCoffee")
 
 #### Telif Hakkı ve Diğer Konular
 
