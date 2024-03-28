@@ -136,7 +136,6 @@ async function login() {
 #### Copyright & Other Issues
 
 Copyright: [copyright@cy4u.dev](mailto:copyright@cy4u.dev "copyright@cy4u.dev")
-
 Other Issues: [hello@cy4u.dev](mailto:hello@cy4u.dev "hello@cy4u.dev")
 
 #### Social Media
