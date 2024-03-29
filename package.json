@@ -1,7 +1,7 @@
 {
   "name": "twitter-unofficial-api",
-  "version": "1.0.1",
-  "description": "Twitter Unofficial API Client",
+  "version": "1.0.2",
+  "description": "The Twitter API allows users to log in quickly and securely with their Twitter account. In just a few simple steps, users can access their accounts.",
   "main": "dist/Twitter.js",
   "repository": {
     "type": "git",
