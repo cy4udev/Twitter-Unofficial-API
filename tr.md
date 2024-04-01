@@ -1,14 +1,14 @@
 # Twitter Unofficial API
 
-**Mevcut Diller**: [🇹🇷](https://cy4u.dev/Twitter-Unofficial-API/tr "Turkish") [🇺🇸](https://cy4u.dev/Twitter-Unofficial-API/ "English") 
+**Mevcut Diller**: [🇹🇷](https://cy4u.dev/Twitter-Unofficial-API/tr.html "Turkish") [🇺🇸](https://cy4u.dev/Twitter-Unofficial-API/ "English") 
 
-[**Twitter Unofficial API**](https://cy4u.dev/Twitter-Unofficial-API/tr "Twitter Unofficial API"), web sitelerine ve uygulamalara kolayca entegre edilebilen bir kütüphanedir.
+[**Twitter Unofficial API**](https://cy4u.dev/Twitter-Unofficial-API/tr.html "Twitter Unofficial API"), web sitelerine ve uygulamalara kolayca entegre edilebilen bir kütüphanedir.
 
-[**Twitter API**](https://cy4u.dev/Twitter-Unofficial-API/tr "Twitter API"), kullanıcıların Twitter hesaplarıyla hızlı ve güvenli bir şekilde giriş yapmalarını sağlar. Sadece birkaç basit adımda, kullanıcıların hesaplarına erişim sağlanır.
+[**Twitter API**](https://cy4u.dev/Twitter-Unofficial-API/tr.html "Twitter API"), kullanıcıların Twitter hesaplarıyla hızlı ve güvenli bir şekilde giriş yapmalarını sağlar. Sadece birkaç basit adımda, kullanıcıların hesaplarına erişim sağlanır.
 
-[**Twitter Login API**](https://cy4u.dev/Twitter-Unofficial-API/tr "Twitter Login API"), kullanıcıya **Twitter**'da oturum açma fırsatı sunar. Eğer ekstra bilgi istenirse, kullanıcı bunları da sağlayabilir.
+[**Twitter Login API**](https://cy4u.dev/Twitter-Unofficial-API/tr.html "Twitter Login API"), kullanıcıya **Twitter**'da oturum açma fırsatı sunar. Eğer ekstra bilgi istenirse, kullanıcı bunları da sağlayabilir.
 
-Örneğin kullanıcıların "**checkpoint**" adı verilen ekstra güvenlik adımlarını geçmelerini isterler. [**Unofficial Twitter API**](https://cy4u.dev/Twitter-Unofficial-API/tr "Unofficial Twitter API"), bu tür durumları da dikkate alır ve kullanıcıların giriş işlemlerini sorunsuz bir şekilde tamamlamalarını sağlar.
+Örneğin kullanıcıların "**checkpoint**" adı verilen ekstra güvenlik adımlarını geçmelerini isterler. [**Unofficial Twitter API**](https://cy4u.dev/Twitter-Unofficial-API/tr.html "Unofficial Twitter API"), bu tür durumları da dikkate alır ve kullanıcıların giriş işlemlerini sorunsuz bir şekilde tamamlamalarını sağlar.
 
 Son olarak, kullanıcının giriş işlemi başarıyla tamamlandığında, kütüphane oturum açan kullanıcının hesabına ait "**çerez**" verilerini alır. Bu bilgiler kullanıcının işlem yapabilmesi için kullanılabilir.
 
@@ -18,7 +18,7 @@ Son olarak, kullanıcının giriş işlemi başarıyla tamamlandığında, küt�
 
 Geliştiriciler, **JavaScript**'ten yararlanarak eşzamansız programlamanın gücünden yararlanabilir, bu da onu ağ isteklerini ve API entegrasyonlarını yönetmek için ideal bir seçim haline getirir.
 
-[**Twitter API**](https://cy4u.dev/Twitter-Unofficial-API/tr "Twitter API")'miz, geliştiricilerin çeşitli eylemleri sorunsuz bir şekilde gerçekleştirmeleri için basitleştirilmiş bir arayüz sunarak **Twitter** ile etkileşimin inceliklerini özetlemeyi amaçlamaktadır.
+[**Twitter API**](https://cy4u.dev/Twitter-Unofficial-API/tr.html "Twitter API")'miz, geliştiricilerin çeşitli eylemleri sorunsuz bir şekilde gerçekleştirmeleri için basitleştirilmiş bir arayüz sunarak **Twitter** ile etkileşimin inceliklerini özetlemeyi amaçlamaktadır.
 
 ### Başlarken
 
@@ -127,7 +127,7 @@ async function login() {
 
 #### Anahtar Kelimeler
 
-[**Twitter**](https://cy4u.dev/Twitter-Unofficial-API/tr "Twitter"), [**Twitter API**](https://cy4u.dev/Twitter-Unofficial-API/tr "Twitter API"), [**Twitter Unofficial API**](https://cy4u.dev/Twitter-Unofficial-API/tr "Twitter Unofficial API"), [**Unofficial Twitter API**](https://cy4u.dev/Twitter-Unofficial-API/tr "Unofficial Twitter API"), [**Twitter Login API**](https://cy4u.dev/Twitter-Unofficial-API/tr "Twitter Login API"), [**X API**](https://cy4u.dev/Twitter-Unofficial-API/tr "X API"), [**X Unofficial API**](https://cy4u.dev/Twitter-Unofficial-API/tr "X Unofficial API"), [**Unofficial X API**](https://cy4u.dev/Twitter-Unofficial-API/tr "Unofficial X API"), [**X Login API**](https://cy4u.dev/Twitter-Unofficial-API/tr "X Login API"), [**NodeJS Developer**](https://cy4u.dev "NodeJS Developer"), [**Back-end Developer**](https://cy4u.dev "Back-end Developer"), [**Node.JS Developer**](https://cy4u.dev "Node.JS Developer"), [**Backend Developer**](https://cy4u.dev "Backend Developer")
+[**Twitter**](https://cy4u.dev/Twitter-Unofficial-API/tr.html "Twitter"), [**Twitter API**](https://cy4u.dev/Twitter-Unofficial-API/tr.html "Twitter API"), [**Twitter Unofficial API**](https://cy4u.dev/Twitter-Unofficial-API/tr.html "Twitter Unofficial API"), [**Unofficial Twitter API**](https://cy4u.dev/Twitter-Unofficial-API/tr.html "Unofficial Twitter API"), [**Twitter Login API**](https://cy4u.dev/Twitter-Unofficial-API/tr.html "Twitter Login API"), [**X API**](https://cy4u.dev/Twitter-Unofficial-API/tr.html "X API"), [**X Unofficial API**](https://cy4u.dev/Twitter-Unofficial-API/tr.html "X Unofficial API"), [**Unofficial X API**](https://cy4u.dev/Twitter-Unofficial-API/tr.html "Unofficial X API"), [**X Login API**](https://cy4u.dev/Twitter-Unofficial-API/tr.html "X Login API"), [**NodeJS Developer**](https://cy4u.dev "NodeJS Developer"), [**Back-end Developer**](https://cy4u.dev "Back-end Developer"), [**Node.JS Developer**](https://cy4u.dev "Node.JS Developer"), [**Backend Developer**](https://cy4u.dev "Backend Developer")
 
 #### Sponsorluk & Bağış
 
