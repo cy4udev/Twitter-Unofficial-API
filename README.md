@@ -1,6 +1,6 @@
 # Twitter Unofficial API
 
-**Available Languages**: [🇺🇸](https://cy4u.dev/Twitter-Unofficial-API/ "English") [🇹🇷](https://cy4u.dev/Twitter-Unofficial-API/tr.html "Turkish")
+**Available Languages**: [🇺🇸](https://cy4u.dev/Twitter-Unofficial-API/ "English") [🇹🇷](https://cy4u.dev/Twitter-Unofficial-API/tr "Turkish")
 
 [**Twitter Unofficial API**](https://cy4u.dev/Twitter-Unofficial-API "Twitter Unofficial API") is a library that can be easily integrated into websites and applications.
 
