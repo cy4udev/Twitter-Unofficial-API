@@ -1,11 +1,65 @@
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-PT0L8W1N59"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag() { dataLayer.push(arguments); }
-        gtag('js', new Date());
+<!-- ANALYTICS START -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-PT0L8W1N59"></script>
 
-        gtag('config', 'G-PT0L8W1N59');
-    </script>
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4324710417918482"
-     crossorigin="anonymous"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'G-PT0L8W1N59');
+</script>
+<!-- ANALYTICS FINISH -->
+
+<!-- ADS START -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4324710417918482"
+    crossorigin="anonymous"></script>
+<!-- ADS FINISH -->
+
+<!-- DEVTOOL START -->
+<script disable-devtool-auto src='https://cdn.jsdelivr.net/npm/disable-devtool' url='https://cy4u.dev'
+    disable-menu='xxx' clear-log='true' disable-select='false' disable-copy='false' disable-cut='true'></script>
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+<!-- DEVTOOL FINISH -->
+
+<!-- ADBLOCK START -->
+<script>
+    function adBlocker() {
+        try {
+            fetch(new Request("https://c.amazon-adsystem.com/aax2/apstag.js", {
+                method: 'HEAD',
+                mode: 'no-cors'
+            })).catch(error => {
+                myPopup();
+            });
+        } catch (e) {
+            myPopup();
+        }
+
+    }
+
+    function myPopup() {
+
+        Swal.fire({
+            title: "AdBlock Detected!",
+            text: "Our website is made possible by displaying ads to our visitors. Please supporting us by whitelisting our website!",
+            icon: "warning",
+            showCancelButton: true,
+            confirmButtonColor: "green",
+            cancelButtonColor: "#d33",
+            confirmButtonText: "Okay, I'll Whitelist!",
+            backdrop: `#000 left top no-repeat`,
+        }).then((result) => {
+            if (result.isConfirmed) {
+                var baseUrl = window.location.origin + window.location.pathname.replace(/\/$/, "");
+                window.location.href = baseUrl;
+            } else {
+                window.location.href = 'https://cy4u.dev'
+            }
+        });
+    }
+
+    adBlocker();
+
+
+</script>
+<!-- ADBLOCK FINISH -->
